@@ -38,7 +38,7 @@ The drone detects a colored line in the simulation environment and follows it au
 ### Clone the Repository
 
 ```bash
-[git clone https://github.com/A-KumarSharma/Drone-Line-Following-.git]
+git clone https://github.com/A-KumarSharma/Drone-Line-Following-.git
 cd drone-line-follower
 ```
 
