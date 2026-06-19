@@ -1,0 +1,3 @@
+pip install pysimverse
+pip install opencv
+pip install cvzone
